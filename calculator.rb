@@ -1,3 +1,3 @@
 first_number = 19
-select_number = 7
+second_number = 7
 
